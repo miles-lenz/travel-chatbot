@@ -29,8 +29,8 @@ Run the command `python app.py` in a terminal. This will start the chatbot and p
 
 ## Demo
 
-A video that illustrates an example interaction with the chatbot can be found here: [LINK]
-The image below shows a snapshot of this video.
+You can view a video demonstrating an example interaction with the chatbot on [my Google Drive](https://drive.google.com/file/d/1l_LEtIyc0-5chyn9qzpIwCw217_igBNo/view?usp=sharing).
+The image below provides a snapshot from the video.
 
 ![thumbnail](https://github.com/miles-lenz/travel-chatbot/blob/main/thumbnail.png)
 
